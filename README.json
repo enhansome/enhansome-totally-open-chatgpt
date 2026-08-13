@@ -1,0 +1,260 @@
+{
+  "items": [
+    {
+      "description": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM\nTags: Bare",
+      "items": [],
+      "title": "lucidrains/PaLM-rlhf-pytorch"
+    },
+    {
+      "description": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.\nTags: Full",
+      "items": [],
+      "title": "oobabooga/text-generation-webui"
+    },
+    {
+      "description": "This is a browser-based front-end for AI-assisted writing with multiple local & remote AI models. It offers the standard array of tools, including Memory, Author’s Note, World Info, Save & Load, adjustable AI settings, formatting options, and the ability to import existing AI Dungeon adventures. You can also turn on Adventure mode and play the game like AI Dungeon Unleashed.\nTags: Full",
+      "items": [],
+      "title": "KoboldAI/KoboldAI-Client"
+    },
+    {
+      "description": "This is the repo for the Stanford Alpaca project, which aims to build and share an instruction-following LLaMA model.\nTags: Complicated",
+      "items": [],
+      "title": "tatsu-lab/stanford_alpaca"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ggerganov/llama.cpp",
+          "description": "Ports for inferencing LLaMA in C/C++ running on CPUs, supports alpaca, gpt4all, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T22:02:28Z",
+            "owner": "ggml-org",
+            "repo": "llama.cpp",
+            "stars": 123728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nomic-ai/gpt4all",
+          "description": "Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-27T20:05:19Z",
+            "owner": "nomic-ai",
+            "repo": "gpt4all",
+            "stars": 77412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hpcaitech/ColossalAI#ColossalChat",
+          "description": "An open-source solution for cloning ChatGPT with a complete RLHF pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:47:01Z",
+            "owner": "hpcaitech",
+            "repo": "ColossalAI",
+            "stars": 41435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lm-sys/FastChat",
+          "description": "An open platform for training, serving, and evaluating large language model based chatbots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-01T00:25:53Z",
+            "owner": "lm-sys",
+            "repo": "FastChat",
+            "stars": 39521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tloen/alpaca-lora",
+          "description": "Code for rproducing the Stanford Alpaca results using low-rank adaptation (LoRA).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-29T13:37:49Z",
+            "owner": "tloen",
+            "repo": "alpaca-lora",
+            "stars": 18908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "setzer22/llama-rs",
+          "description": "Rust port of the llama.cpp project.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-06-24T16:29:01Z",
+            "owner": "rustformers",
+            "repo": "llm",
+            "stars": 6156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lightning-AI/lit-llama",
+          "description": "Implementation of the LLaMA language model based on nanoGPT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-01T16:31:39Z",
+            "owner": "Lightning-AI",
+            "repo": "lit-llama",
+            "stars": 6086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nsarrazin/serge",
+          "description": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Svelte",
+            "last_commit": "2025-11-21T08:07:36Z",
+            "owner": "serge-chat",
+            "repo": "serge",
+            "stars": 5716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juncongmoo/chatllama",
+          "description": "Open source implementation for LLaMA-based ChatGPT runnable in a single GPU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-18T15:53:00Z",
+            "owner": "henrywoo",
+            "repo": "chatllama",
+            "stars": 1200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pointnetwork/point-alpaca",
+          "description": "Released weights recreated from Stanford Alpaca, an experiment in fine-tuning LLaMA on a synthetic instruction dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-22T15:11:06Z",
+            "owner": "pointnetwork",
+            "repo": "point-alpaca",
+            "stars": 400
+          }
+        }
+      ],
+      "title": "Other LLaMA-derived projects:"
+    },
+    {
+      "description": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.\nTags: Full",
+      "items": [],
+      "title": "BlinkDL/ChatRWKV"
+    },
+    {
+      "description": "ChatGLM-6B is an open bilingual language model based on General Language Model (GLM) framework, with 6.2 billion parameters. With the quantization technique, users can deploy locally on consumer-grade graphics cards (only 6GB of GPU memory is required at the INT4 quantization level).\nRelated links:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alternative Web UI: Akegarasu/ChatGLM-webui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-25T13:32:59Z",
+            "owner": "Akegarasu",
+            "repo": "ChatGLM-webui",
+            "stars": 1889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker image with built-on playground UI and streaming API compatible with OpenAI, using Basaran",
+          "description": "peakji92/chatglm:6b",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-01-24T05:50:55Z",
+            "owner": "hyperonym",
+            "repo": "basaran",
+            "stars": 1282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fintune ChatGLM-6b using low-rank adaptation (LoRA): lich99/ChatGLM-finetune-LoRA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-18T17:27:34Z",
+            "owner": "lich99",
+            "repo": "ChatGLM-finetune-LoRA",
+            "stars": 715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deploying ChatGLM on Modelz: tensorchord/modelz-ChatGLM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2023-03-20T04:36:22Z",
+            "owner": "tensorchord",
+            "repo": "modelz-ChatGLM",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "THUDM/ChatGLM-6B"
+    },
+    {
+      "description": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF), supporting online RL up to 20b params and offline RL to larger models. Basically what you would use to finetune GPT into ChatGPT.\nTags: Bare",
+      "items": [],
+      "title": "carperai/trlx"
+    },
+    {
+      "description": "Atmospheric adventure chat for AI language model Pygmalion by default and other models such as KoboldAI, ChatGPT, GPT-4\nTags: Full",
+      "items": [],
+      "title": "TavernAI/TavernAI"
+    },
+    {
+      "description": "SillyTavern is a fork of TavernAI 1.2.8 which is under more active development, and has added many major features. At this point they can be thought of as completely independent programs. On its own Tavern is useless, as it's just a user interface. You have to have access to an AI system backend that can act as the roleplay character. There are various supported backends: OpenAPI API (GPT), KoboldAI (either running locally or on Google Colab), and more.\nTags: Full",
+      "items": [],
+      "title": "Cohee1207/SillyTavern"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:16:36.909Z",
+    "original_repository": "nichtdax/awesome-totally-open-chatgpt",
+    "original_repository_sha": "e30682ae1de8df142372b34e151291c31dd58081",
+    "enhanced_repository": "enhansome/enhansome-totally-open-chatgpt",
+    "enhanced_repository_description": null,
+    "title": "Awesome The template with stars"
+  }
+}
