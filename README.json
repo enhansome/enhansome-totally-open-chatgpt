@@ -31,10 +31,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T08:35:53Z",
+            "last_commit": "2026-08-16T07:24:37Z",
             "owner": "ggml-org",
             "repo": "llama.cpp",
-            "stars": 123945
+            "stars": 124083
           }
         },
         {
@@ -48,7 +48,7 @@
             "last_commit": "2025-05-27T20:05:19Z",
             "owner": "nomic-ai",
             "repo": "gpt4all",
-            "stars": 77409
+            "stars": 77411
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-10T17:47:01Z",
             "owner": "hpcaitech",
             "repo": "ColossalAI",
-            "stars": 41436
+            "stars": 41437
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-05-01T00:25:53Z",
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39514
+            "stars": 39513
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2024-06-24T16:29:01Z",
             "owner": "rustformers",
             "repo": "llm",
-            "stars": 6156
+            "stars": 6155
           }
         },
         {
@@ -250,7 +250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:49:53.300Z",
+    "last_updated": "2026-08-16T08:51:56.647Z",
     "original_repository": "nichtdax/awesome-totally-open-chatgpt",
     "original_repository_sha": "e30682ae1de8df142372b34e151291c31dd58081",
     "enhanced_repository": "enhansome/enhansome-totally-open-chatgpt",
