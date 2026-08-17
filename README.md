@@ -79,7 +79,7 @@ Related links:
 
 Tags: Full
 
-## [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,552 | 🐛 833 | 🌐 Python | 📅 2026-06-02
+## [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,548 | 🐛 833 | 🌐 Python | 📅 2026-06-02
 
 A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.
 
@@ -110,24 +110,24 @@ Tags: Complicated
 
 ### Other LLaMA-derived projects:
 
-* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 124,083 | 🐛 2,056 | 🌐 C++ | 📅 2026-08-16 Ports for inferencing LLaMA in C/C++ running on CPUs, supports alpaca, gpt4all, etc.
-* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,411 | 🐛 774 | 🌐 C++ | 📅 2025-05-27 Demo, data and code to train an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMA.
+* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 124,276 | 🐛 2,088 | 🌐 C++ | 📅 2026-08-17 Ports for inferencing LLaMA in C/C++ running on CPUs, supports alpaca, gpt4all, etc.
+* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,404 | 🐛 774 | 🌐 C++ | 📅 2025-05-27 Demo, data and code to train an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMA.
 * [hpcaitech/ColossalAI#ColossalChat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) ⭐ 41,437 | 🐛 504 | 🌐 Python | 📅 2026-08-10 An open-source solution for cloning ChatGPT with a complete RLHF pipeline.
-* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,513 | 🐛 1,038 | 🌐 Python | 📅 2026-05-01 An open platform for training, serving, and evaluating large language model based chatbots.
-* [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,908 | 🐛 365 | 🌐 Jupyter Notebook | 📅 2024-07-29 Code for rproducing the Stanford Alpaca results using low-rank adaptation (LoRA).
+* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,513 | 🐛 1,039 | 🌐 Python | 📅 2026-05-01 An open platform for training, serving, and evaluating large language model based chatbots.
+* [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,910 | 🐛 365 | 🌐 Jupyter Notebook | 📅 2024-07-29 Code for rproducing the Stanford Alpaca results using low-rank adaptation (LoRA).
 * [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ⚠️ Archived Rust port of the llama.cpp project.
 * [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) ⭐ 6,084 | 🐛 107 | 🌐 Python | 📅 2025-07-01 Implementation of the LLaMA language model based on nanoGPT.
 * [nsarrazin/serge](https://github.com/nsarrazin/serge) ⚠️ Archived A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-* [juncongmoo/chatllama](https://github.com/juncongmoo/chatllama) ⭐ 1,200 | 🐛 3 | 🌐 Python | 📅 2025-01-18 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU.
-* [pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca) ⭐ 400 | 🐛 12 | 🌐 Python | 📅 2023-03-22 Released weights recreated from Stanford Alpaca, an experiment in fine-tuning LLaMA on a synthetic instruction dataset.
+* [juncongmoo/chatllama](https://github.com/juncongmoo/chatllama) ⭐ 1,201 | 🐛 3 | 🌐 Python | 📅 2025-01-18 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU.
+* [pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca) ⭐ 399 | 🐛 12 | 🌐 Python | 📅 2023-03-22 Released weights recreated from Stanford Alpaca, an experiment in fine-tuning LLaMA on a synthetic instruction dataset.
 
-## [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ⭐ 9,503 | 🐛 60 | 🌐 Python | 📅 2026-07-19
+## [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ⭐ 9,502 | 🐛 60 | 🌐 Python | 📅 2026-07-19
 
 ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 
 Tags: Full
 
-## [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,988 | 🐛 607 | 🌐 Python | 📅 2024-06-27
+## [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,990 | 🐛 607 | 🌐 Python | 📅 2024-06-27
 
 ChatGLM-6B is an open bilingual language model based on General Language Model (GLM) framework, with 6.2 billion parameters. With the quantization technique, users can deploy locally on consumer-grade graphics cards (only 6GB of GPU memory is required at the INT4 quantization level).
 
@@ -158,9 +158,9 @@ A repo for distributed training of language models with Reinforcement Learning v
 
 Tags: Bare
 
-## [databrickslabs/dolly](https://github.com/databrickslabs/dolly) ⭐ 10,804 | 🐛 6 | 🌐 Python | 📅 2023-06-30
+## [databrickslabs/dolly](https://github.com/databrickslabs/dolly) ⭐ 10,805 | 🐛 6 | 🌐 Python | 📅 2023-06-30
 
-Databricks’ dolly-v2-12b, an instruction-following large language model trained on the Databricks machine learning platform that is licensed for commercial use. Based on pythia-12b trained on \~15k instruction/response fine tuning records [databricks-dolly-15k](https://github.com/databrickslabs/dolly/tree/master/data) ⭐ 10,804 | 🐛 6 | 🌐 Python | 📅 2023-06-30 generated by Databricks employees in capability domains from the InstructGPT paper.
+Databricks’ dolly-v2-12b, an instruction-following large language model trained on the Databricks machine learning platform that is licensed for commercial use. Based on pythia-12b trained on \~15k instruction/response fine tuning records [databricks-dolly-15k](https://github.com/databrickslabs/dolly/tree/master/data) ⭐ 10,805 | 🐛 6 | 🌐 Python | 📅 2023-06-30 generated by Databricks employees in capability domains from the InstructGPT paper.
 
 Related links:
 
@@ -200,13 +200,13 @@ Related links:
 
 Tags: Standard
 
-## [TavernAI/TavernAI](https://github.com/TavernAI/TavernAI) ⭐ 49 | 🐛 2 | 📅 2026-08-14
+## [TavernAI/TavernAI](https://github.com/TavernAI/TavernAI) ⭐ 53 | 🐛 2 | 📅 2026-08-14
 
 Atmospheric adventure chat for AI language model **Pygmalion** by default and other models such as **KoboldAI**, ChatGPT, GPT-4
 
 Tags: Full
 
-## [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern) ⭐ 32,182 | 🐛 583 | 🌐 JavaScript | 📅 2026-07-11
+## [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern) ⭐ 32,239 | 🐛 567 | 🌐 JavaScript | 📅 2026-08-17
 
 SillyTavern is a fork of TavernAI 1.2.8 which is under more active development, and has added many major features. At this point they can be thought of as completely independent programs. On its own Tavern is useless, as it's just a user interface. You have to have access to an AI system backend that can act as the roleplay character. There are various supported backends: OpenAPI API (GPT), KoboldAI (either running locally or on Google Colab), and more.
 
@@ -230,7 +230,7 @@ Related links:
 
 Tags: Full
 
-## [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ⭐ 18,564 | 🐛 153 | 🌐 TypeScript | 📅 2026-08-04
+## [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ⭐ 18,565 | 🐛 153 | 🌐 TypeScript | 📅 2026-08-04
 
 Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 
@@ -261,16 +261,16 @@ Related links:
 
 Tags: Full
 
-## [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) ⭐ 12,214 | 🐛 243 | 🌐 Python | 📅 2026-05-27
+## [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) ⭐ 12,214 | 🐛 242 | 🌐 Python | 📅 2026-05-27
 
 MOSS: An open-source tool-augmented conversational language model from Fudan University. (Most examples are in Chinese)
 
 Related links:
 
-* [English readme](https://github.com/OpenLMLab/MOSS/blob/main/README_en.md) ⭐ 12,214 | 🐛 243 | 🌐 Python | 📅 2026-05-27
+* [English readme](https://github.com/OpenLMLab/MOSS/blob/main/README_en.md) ⭐ 12,214 | 🐛 242 | 🌐 Python | 📅 2026-05-27
 
 Tags: Full
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
