@@ -44,7 +44,7 @@
             "last_commit": "2026-08-17T17:38:16Z",
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47551
+            "stars": 47552
           },
           "title": "oobabooga/text-generation-webui"
         },
@@ -91,10 +91,10 @@
                     "archived": false,
                     "id": 612354784,
                     "language": "C++",
-                    "last_commit": "2026-08-19T08:46:01Z",
+                    "last_commit": "2026-08-19T12:29:02Z",
                     "owner": "ggml-org",
                     "repo": "llama.cpp",
-                    "stars": 124632
+                    "stars": 124658
                   }
                 },
                 {
@@ -428,7 +428,7 @@
             "last_commit": "2026-08-14T16:50:17Z",
             "owner": "TavernAI",
             "repo": "TavernAI",
-            "stars": 53
+            "stars": 54
           },
           "title": "TavernAI/TavernAI"
         },
@@ -443,7 +443,7 @@
             "last_commit": "2026-08-17T01:33:13Z",
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32354
+            "stars": 32363
           },
           "title": "Cohee1207/SillyTavern"
         },
@@ -473,7 +473,7 @@
             "last_commit": "2026-08-04T10:46:09Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18573
+            "stars": 18575
           },
           "title": "mlc-ai/web-llm"
         },
@@ -527,8 +527,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:59:42.790Z",
+    "last_updated": "2026-08-19T12:54:34.401Z",
     "original_repository": "nichtdax/awesome-totally-open-chatgpt",
+    "original_repository_id": 615695876,
     "original_repository_sha": "e30682ae1de8df142372b34e151291c31dd58081",
     "enhanced_repository": "enhansome/enhansome-totally-open-chatgpt",
     "enhanced_repository_description": null,

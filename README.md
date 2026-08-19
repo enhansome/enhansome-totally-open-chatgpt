@@ -79,7 +79,7 @@ Related links:
 
 Tags: Full
 
-## [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,551 | 🐛 834 | 🌐 Python | 📅 2026-08-17
+## [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,552 | 🐛 834 | 🌐 Python | 📅 2026-08-17
 
 A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.
 
@@ -110,7 +110,7 @@ Tags: Complicated
 
 ### Other LLaMA-derived projects:
 
-* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 124,632 | 🐛 2,123 | 🌐 C++ | 📅 2026-08-19 Ports for inferencing LLaMA in C/C++ running on CPUs, supports alpaca, gpt4all, etc.
+* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 124,658 | 🐛 2,124 | 🌐 C++ | 📅 2026-08-19 Ports for inferencing LLaMA in C/C++ running on CPUs, supports alpaca, gpt4all, etc.
 * [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,403 | 🐛 772 | 🌐 C++ | 📅 2025-05-27 Demo, data and code to train an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMA.
 * [hpcaitech/ColossalAI#ColossalChat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) ⭐ 41,438 | 🐛 503 | 🌐 Python | 📅 2026-08-17 An open-source solution for cloning ChatGPT with a complete RLHF pipeline.
 * [lm-sys/FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,511 | 🐛 1,039 | 🌐 Python | 📅 2026-05-01 An open platform for training, serving, and evaluating large language model based chatbots.
@@ -200,13 +200,13 @@ Related links:
 
 Tags: Standard
 
-## [TavernAI/TavernAI](https://github.com/TavernAI/TavernAI) ⭐ 53 | 🐛 2 | 📅 2026-08-14
+## [TavernAI/TavernAI](https://github.com/TavernAI/TavernAI) ⭐ 54 | 🐛 2 | 📅 2026-08-14
 
 Atmospheric adventure chat for AI language model **Pygmalion** by default and other models such as **KoboldAI**, ChatGPT, GPT-4
 
 Tags: Full
 
-## [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern) ⭐ 32,354 | 🐛 568 | 🌐 JavaScript | 📅 2026-08-17
+## [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern) ⭐ 32,363 | 🐛 568 | 🌐 JavaScript | 📅 2026-08-17
 
 SillyTavern is a fork of TavernAI 1.2.8 which is under more active development, and has added many major features. At this point they can be thought of as completely independent programs. On its own Tavern is useless, as it's just a user interface. You have to have access to an AI system backend that can act as the roleplay character. There are various supported backends: OpenAPI API (GPT), KoboldAI (either running locally or on Google Colab), and more.
 
@@ -230,7 +230,7 @@ Related links:
 
 Tags: Full
 
-## [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ⭐ 18,573 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-04
+## [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ⭐ 18,575 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-04
 
 Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 
