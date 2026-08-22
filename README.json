@@ -44,7 +44,7 @@
             "last_commit": "2026-08-17T17:38:16Z",
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47558
+            "stars": 47559
           },
           "title": "oobabooga/text-generation-webui"
         },
@@ -91,10 +91,10 @@
                     "archived": false,
                     "id": 612354784,
                     "language": "C++",
-                    "last_commit": "2026-08-21T08:33:45Z",
+                    "last_commit": "2026-08-22T08:35:50Z",
                     "owner": "ggml-org",
                     "repo": "llama.cpp",
-                    "stars": 124960
+                    "stars": 125091
                   }
                 },
                 {
@@ -124,7 +124,7 @@
                     "last_commit": "2026-08-17T17:57:12Z",
                     "owner": "hpcaitech",
                     "repo": "ColossalAI",
-                    "stars": 41437
+                    "stars": 41438
                   }
                 },
                 {
@@ -139,7 +139,7 @@
                     "last_commit": "2026-05-01T00:25:53Z",
                     "owner": "lm-sys",
                     "repo": "FastChat",
-                    "stars": 39515
+                    "stars": 39517
                   }
                 },
                 {
@@ -184,7 +184,7 @@
                     "last_commit": "2025-07-01T16:31:39Z",
                     "owner": "Lightning-AI",
                     "repo": "lit-llama",
-                    "stars": 6083
+                    "stars": 6085
                   }
                 },
                 {
@@ -247,7 +247,7 @@
             "last_commit": "2024-07-17T09:43:05Z",
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30242
+            "stars": 30245
           },
           "title": "tatsu-lab/stanford_alpaca"
         },
@@ -262,7 +262,7 @@
             "last_commit": "2026-07-19T19:09:29Z",
             "owner": "BlinkDL",
             "repo": "ChatRWKV",
-            "stars": 9501
+            "stars": 9500
           },
           "title": "BlinkDL/ChatRWKV"
         },
@@ -338,7 +338,7 @@
             "last_commit": "2024-06-27T04:05:25Z",
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40984
+            "stars": 40985
           },
           "title": "THUDM/ChatGLM-6B"
         },
@@ -428,7 +428,7 @@
             "last_commit": "2026-08-14T16:50:17Z",
             "owner": "TavernAI",
             "repo": "TavernAI",
-            "stars": 57
+            "stars": 58
           },
           "title": "TavernAI/TavernAI"
         },
@@ -443,7 +443,7 @@
             "last_commit": "2026-08-21T04:35:51Z",
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32460
+            "stars": 32495
           },
           "title": "Cohee1207/SillyTavern"
         },
@@ -473,7 +473,7 @@
             "last_commit": "2026-08-04T10:46:09Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18584
+            "stars": 18585
           },
           "title": "mlc-ai/web-llm"
         },
@@ -518,7 +518,7 @@
             "last_commit": "2026-05-27T13:16:14Z",
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12222
+            "stars": 12223
           },
           "title": "OpenLMLab/MOSS"
         }
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:02:57.544Z",
+    "last_updated": "2026-08-22T08:52:42.146Z",
     "original_repository": "nichtdax/awesome-totally-open-chatgpt",
     "original_repository_id": 615695876,
     "original_repository_sha": "e30682ae1de8df142372b34e151291c31dd58081",
