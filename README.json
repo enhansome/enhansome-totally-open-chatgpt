@@ -44,7 +44,7 @@
             "last_commit": "2026-08-17T17:38:16Z",
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47572
+            "stars": 47577
           },
           "title": "oobabooga/text-generation-webui"
         },
@@ -91,10 +91,10 @@
                     "archived": false,
                     "id": 612354784,
                     "language": "C++",
-                    "last_commit": "2026-08-25T05:08:07Z",
+                    "last_commit": "2026-08-25T08:59:29Z",
                     "owner": "ggml-org",
                     "repo": "llama.cpp",
-                    "stars": 125499
+                    "stars": 125523
                   }
                 },
                 {
@@ -109,7 +109,7 @@
                     "last_commit": "2025-05-27T20:05:19Z",
                     "owner": "nomic-ai",
                     "repo": "gpt4all",
-                    "stars": 77397
+                    "stars": 77399
                   }
                 },
                 {
@@ -459,7 +459,7 @@
             "last_commit": "2026-08-21T04:35:51Z",
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32616
+            "stars": 32624
           },
           "title": "Cohee1207/SillyTavern"
         },
@@ -489,7 +489,7 @@
             "last_commit": "2026-08-04T10:46:09Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18589
+            "stars": 18590
           },
           "title": "mlc-ai/web-llm"
         },
@@ -538,7 +538,7 @@
                 "last_commit": "2023-05-03T02:45:22Z",
                 "owner": "nichtdax",
                 "repo": "awesome-totally-open-chatgpt",
-                "stars": 4787
+                "stars": 4786
               }
             }
           ],
@@ -591,7 +591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:50:13.521Z",
+    "last_updated": "2026-08-25T09:03:59.733Z",
     "original_repository": "nichtdax/awesome-totally-open-chatgpt",
     "original_repository_id": 615695876,
     "original_repository_sha": "e30682ae1de8df142372b34e151291c31dd58081",
