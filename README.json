@@ -44,7 +44,7 @@
             "last_commit": "2026-08-17T17:38:16Z",
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47569
+            "stars": 47572
           },
           "title": "oobabooga/text-generation-webui"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2024-08-17T01:55:35Z",
             "owner": "LAION-AI",
             "repo": "Open-Assistant",
-            "stars": 37406
+            "stars": 37405
           },
           "title": "LAION-AI/Open-Assistant"
         },
@@ -91,10 +91,10 @@
                     "archived": false,
                     "id": 612354784,
                     "language": "C++",
-                    "last_commit": "2026-08-24T13:41:49Z",
+                    "last_commit": "2026-08-25T05:08:07Z",
                     "owner": "ggml-org",
                     "repo": "llama.cpp",
-                    "stars": 125396
+                    "stars": 125499
                   }
                 },
                 {
@@ -109,7 +109,7 @@
                     "last_commit": "2025-05-27T20:05:19Z",
                     "owner": "nomic-ai",
                     "repo": "gpt4all",
-                    "stars": 77393
+                    "stars": 77397
                   }
                 },
                 {
@@ -121,10 +121,10 @@
                     "archived": false,
                     "id": 422274596,
                     "language": "Python",
-                    "last_commit": "2026-08-17T17:57:12Z",
+                    "last_commit": "2026-08-24T17:46:02Z",
                     "owner": "hpcaitech",
                     "repo": "ColossalAI",
-                    "stars": 41438
+                    "stars": 41439
                   }
                 },
                 {
@@ -247,7 +247,7 @@
             "last_commit": "2024-07-17T09:43:05Z",
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30246
+            "stars": 30245
           },
           "title": "tatsu-lab/stanford_alpaca"
         },
@@ -338,7 +338,7 @@
             "last_commit": "2024-06-27T04:05:25Z",
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40984
+            "stars": 40982
           },
           "title": "THUDM/ChatGLM-6B"
         },
@@ -383,7 +383,7 @@
             "last_commit": "2023-06-30T18:36:16Z",
             "owner": "databrickslabs",
             "repo": "dolly",
-            "stars": 10804
+            "stars": 10805
           },
           "title": "databrickslabs/dolly"
         },
@@ -444,7 +444,7 @@
             "last_commit": "2026-08-24T07:51:28Z",
             "owner": "TavernAI",
             "repo": "TavernAI",
-            "stars": 59
+            "stars": 60
           },
           "title": "TavernAI/TavernAI"
         },
@@ -459,7 +459,7 @@
             "last_commit": "2026-08-21T04:35:51Z",
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32600
+            "stars": 32616
           },
           "title": "Cohee1207/SillyTavern"
         },
@@ -474,7 +474,7 @@
             "last_commit": "2025-10-09T23:30:01Z",
             "owner": "h2oai",
             "repo": "h2ogpt",
-            "stars": 11969
+            "stars": 11970
           },
           "title": "h2oai/h2ogpt"
         },
@@ -489,7 +489,7 @@
             "last_commit": "2026-08-04T10:46:09Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18587
+            "stars": 18589
           },
           "title": "mlc-ai/web-llm"
         },
@@ -507,7 +507,7 @@
                 "last_commit": "2024-04-08T19:26:02Z",
                 "owner": "Stability-AI",
                 "repo": "StableLM",
-                "stars": 15685
+                "stars": 15684
               }
             }
           ],
@@ -520,7 +520,7 @@
             "last_commit": "2024-04-08T19:26:02Z",
             "owner": "Stability-AI",
             "repo": "StableLM",
-            "stars": 15685
+            "stars": 15684
           },
           "title": "Stability-AI/StableLM"
         },
@@ -538,7 +538,7 @@
                 "last_commit": "2023-05-03T02:45:22Z",
                 "owner": "nichtdax",
                 "repo": "awesome-totally-open-chatgpt",
-                "stars": 4786
+                "stars": 4787
               }
             }
           ],
@@ -591,7 +591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:56:26.526Z",
+    "last_updated": "2026-08-25T05:50:13.521Z",
     "original_repository": "nichtdax/awesome-totally-open-chatgpt",
     "original_repository_id": 615695876,
     "original_repository_sha": "e30682ae1de8df142372b34e151291c31dd58081",
