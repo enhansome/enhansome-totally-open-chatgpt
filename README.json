@@ -59,7 +59,7 @@
             "last_commit": "2025-01-16T17:01:49Z",
             "owner": "KoboldAI",
             "repo": "KoboldAI-Client",
-            "stars": 3940
+            "stars": 3941
           },
           "title": "KoboldAI/KoboldAI-Client"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2024-08-17T01:55:35Z",
             "owner": "LAION-AI",
             "repo": "Open-Assistant",
-            "stars": 37405
+            "stars": 37406
           },
           "title": "LAION-AI/Open-Assistant"
         },
@@ -91,10 +91,10 @@
                     "archived": false,
                     "id": 612354784,
                     "language": "C++",
-                    "last_commit": "2026-08-25T08:59:29Z",
+                    "last_commit": "2026-08-26T08:57:08Z",
                     "owner": "ggml-org",
                     "repo": "llama.cpp",
-                    "stars": 125523
+                    "stars": 125695
                   }
                 },
                 {
@@ -109,7 +109,7 @@
                     "last_commit": "2025-05-27T20:05:19Z",
                     "owner": "nomic-ai",
                     "repo": "gpt4all",
-                    "stars": 77399
+                    "stars": 77396
                   }
                 },
                 {
@@ -124,7 +124,7 @@
                     "last_commit": "2026-08-24T17:46:02Z",
                     "owner": "hpcaitech",
                     "repo": "ColossalAI",
-                    "stars": 41439
+                    "stars": 41441
                   }
                 },
                 {
@@ -154,7 +154,7 @@
                     "last_commit": "2024-07-29T13:37:49Z",
                     "owner": "tloen",
                     "repo": "alpaca-lora",
-                    "stars": 18908
+                    "stars": 18906
                   }
                 },
                 {
@@ -247,7 +247,7 @@
             "last_commit": "2024-07-17T09:43:05Z",
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30245
+            "stars": 30244
           },
           "title": "tatsu-lab/stanford_alpaca"
         },
@@ -338,7 +338,7 @@
             "last_commit": "2024-06-27T04:05:25Z",
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40982
+            "stars": 40980
           },
           "title": "THUDM/ChatGLM-6B"
         },
@@ -401,7 +401,7 @@
                 "last_commit": "2024-10-16T11:38:59Z",
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8276
+                "stars": 8275
               }
             }
           ],
@@ -414,7 +414,7 @@
             "last_commit": "2024-10-16T11:38:59Z",
             "owner": "LianjiaTech",
             "repo": "BELLE",
-            "stars": 8276
+            "stars": 8275
           },
           "title": "LianjiaTech/BELLE"
         },
@@ -459,7 +459,7 @@
             "last_commit": "2026-08-21T04:35:51Z",
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32624
+            "stars": 32662
           },
           "title": "Cohee1207/SillyTavern"
         },
@@ -474,7 +474,7 @@
             "last_commit": "2025-10-09T23:30:01Z",
             "owner": "h2oai",
             "repo": "h2ogpt",
-            "stars": 11970
+            "stars": 11968
           },
           "title": "h2oai/h2ogpt"
         },
@@ -489,7 +489,7 @@
             "last_commit": "2026-08-04T10:46:09Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18590
+            "stars": 18597
           },
           "title": "mlc-ai/web-llm"
         },
@@ -538,7 +538,7 @@
                 "last_commit": "2023-05-03T02:45:22Z",
                 "owner": "nichtdax",
                 "repo": "awesome-totally-open-chatgpt",
-                "stars": 4786
+                "stars": 4784
               }
             }
           ],
@@ -569,7 +569,7 @@
                 "last_commit": "2026-05-27T13:16:14Z",
                 "owner": "OpenMOSS",
                 "repo": "MOSS",
-                "stars": 12225
+                "stars": 12229
               }
             }
           ],
@@ -582,7 +582,7 @@
             "last_commit": "2026-05-27T13:16:14Z",
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12225
+            "stars": 12229
           },
           "title": "OpenLMLab/MOSS"
         }
@@ -591,7 +591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:03:59.733Z",
+    "last_updated": "2026-08-26T09:06:32.511Z",
     "original_repository": "nichtdax/awesome-totally-open-chatgpt",
     "original_repository_id": 615695876,
     "original_repository_sha": "e30682ae1de8df142372b34e151291c31dd58081",
