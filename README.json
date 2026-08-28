@@ -14,9 +14,10 @@
             "last_commit": "2026-07-27T23:39:41Z",
             "owner": "lucidrains",
             "repo": "PaLM-rlhf-pytorch",
-            "stars": 7868
+            "stars": 7867
           },
-          "title": "lucidrains/PaLM-rlhf-pytorch"
+          "title": "lucidrains/PaLM-rlhf-pytorch",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [],
@@ -29,9 +30,10 @@
             "last_commit": "2024-04-09T19:09:58Z",
             "owner": "togethercomputer",
             "repo": "OpenChatKit",
-            "stars": 8984
+            "stars": 8983
           },
-          "title": "togethercomputer/OpenChatKit"
+          "title": "togethercomputer/OpenChatKit",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [],
@@ -44,9 +46,10 @@
             "last_commit": "2026-08-17T17:38:16Z",
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47588
+            "stars": 47591
           },
-          "title": "oobabooga/text-generation-webui"
+          "title": "oobabooga/text-generation-webui",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [],
@@ -61,7 +64,8 @@
             "repo": "KoboldAI-Client",
             "stars": 3944
           },
-          "title": "KoboldAI/KoboldAI-Client"
+          "title": "KoboldAI/KoboldAI-Client",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [],
@@ -74,9 +78,10 @@
             "last_commit": "2024-08-17T01:55:35Z",
             "owner": "LAION-AI",
             "repo": "Open-Assistant",
-            "stars": 37410
+            "stars": 37408
           },
-          "title": "LAION-AI/Open-Assistant"
+          "title": "LAION-AI/Open-Assistant",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [
@@ -91,11 +96,12 @@
                     "archived": false,
                     "id": 612354784,
                     "language": "C++",
-                    "last_commit": "2026-08-27T19:07:19Z",
+                    "last_commit": "2026-08-28T19:23:11Z",
                     "owner": "ggml-org",
                     "repo": "llama.cpp",
-                    "stars": 125939
-                  }
+                    "stars": 126096
+                  },
+                  "first_seen": "2026-08-28T20:14:39.899Z"
                 },
                 {
                   "node_type": "item",
@@ -109,8 +115,9 @@
                     "last_commit": "2025-05-27T20:05:19Z",
                     "owner": "nomic-ai",
                     "repo": "gpt4all",
-                    "stars": 77397
-                  }
+                    "stars": 77398
+                  },
+                  "first_seen": "2026-08-28T20:14:39.899Z"
                 },
                 {
                   "node_type": "item",
@@ -125,7 +132,8 @@
                     "owner": "hpcaitech",
                     "repo": "ColossalAI",
                     "stars": 41443
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:39.899Z"
                 },
                 {
                   "node_type": "item",
@@ -140,7 +148,8 @@
                     "owner": "lm-sys",
                     "repo": "FastChat",
                     "stars": 39526
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:39.899Z"
                 },
                 {
                   "node_type": "item",
@@ -154,8 +163,9 @@
                     "last_commit": "2024-07-29T13:37:49Z",
                     "owner": "tloen",
                     "repo": "alpaca-lora",
-                    "stars": 18906
-                  }
+                    "stars": 18908
+                  },
+                  "first_seen": "2026-08-28T20:14:39.899Z"
                 },
                 {
                   "node_type": "item",
@@ -170,7 +180,8 @@
                     "owner": "rustformers",
                     "repo": "llm",
                     "stars": 6153
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:39.899Z"
                 },
                 {
                   "node_type": "item",
@@ -184,8 +195,9 @@
                     "last_commit": "2025-07-01T16:31:39Z",
                     "owner": "Lightning-AI",
                     "repo": "lit-llama",
-                    "stars": 6084
-                  }
+                    "stars": 6085
+                  },
+                  "first_seen": "2026-08-28T20:14:39.899Z"
                 },
                 {
                   "node_type": "item",
@@ -200,7 +212,8 @@
                     "owner": "serge-chat",
                     "repo": "serge",
                     "stars": 5714
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:39.899Z"
                 },
                 {
                   "node_type": "item",
@@ -215,7 +228,8 @@
                     "owner": "henrywoo",
                     "repo": "chatllama",
                     "stars": 1201
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:39.899Z"
                 },
                 {
                   "node_type": "item",
@@ -230,7 +244,8 @@
                     "owner": "pointnetwork",
                     "repo": "point-alpaca",
                     "stars": 398
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:39.899Z"
                 }
               ],
               "description": null,
@@ -247,9 +262,10 @@
             "last_commit": "2024-07-17T09:43:05Z",
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30247
+            "stars": 30246
           },
-          "title": "tatsu-lab/stanford_alpaca"
+          "title": "tatsu-lab/stanford_alpaca",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [],
@@ -262,9 +278,10 @@
             "last_commit": "2026-07-19T19:09:29Z",
             "owner": "BlinkDL",
             "repo": "ChatRWKV",
-            "stars": 9499
+            "stars": 9498
           },
-          "title": "BlinkDL/ChatRWKV"
+          "title": "BlinkDL/ChatRWKV",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [
@@ -281,7 +298,8 @@
                 "owner": "Akegarasu",
                 "repo": "ChatGLM-webui",
                 "stars": 1888
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.899Z"
             },
             {
               "node_type": "item",
@@ -296,7 +314,8 @@
                 "owner": "hyperonym",
                 "repo": "basaran",
                 "stars": 1282
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.899Z"
             },
             {
               "node_type": "item",
@@ -311,7 +330,8 @@
                 "owner": "lich99",
                 "repo": "ChatGLM-finetune-LoRA",
                 "stars": 715
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.899Z"
             },
             {
               "node_type": "item",
@@ -326,7 +346,8 @@
                 "owner": "tensorchord",
                 "repo": "modelz-ChatGLM",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.899Z"
             }
           ],
           "description": "ChatGLM-6B is an open bilingual language model based on General Language Model (GLM) framework, with 6.2 billion parameters. With the quantization technique, users can deploy locally on consumer-grade graphics cards (only 6GB of GPU memory is required at the INT4 quantization level).\nRelated links:\nTags: Full",
@@ -338,9 +359,10 @@
             "last_commit": "2024-06-27T04:05:25Z",
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40984
+            "stars": 40983
           },
-          "title": "THUDM/ChatGLM-6B"
+          "title": "THUDM/ChatGLM-6B",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [],
@@ -355,7 +377,8 @@
             "repo": "xmtf",
             "stars": 534
           },
-          "title": "bigscience-workshop/xmtf"
+          "title": "bigscience-workshop/xmtf",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [],
@@ -370,7 +393,8 @@
             "repo": "trlx",
             "stars": 4755
           },
-          "title": "carperai/trlx"
+          "title": "carperai/trlx",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [],
@@ -385,7 +409,8 @@
             "repo": "dolly",
             "stars": 10805
           },
-          "title": "databrickslabs/dolly"
+          "title": "databrickslabs/dolly",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [
@@ -402,7 +427,8 @@
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
                 "stars": 8275
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.899Z"
             }
           ],
           "description": "The goal of this project is to promote the development of the open-source community for Chinese language large-scale conversational models. This project optimizes Chinese performance in addition to original Stanford Alpaca. The model finetuning uses only data generated via ChatGPT (without other data). This repo contains: 175 chinese seed tasks used for generating the data, code for generating the data, 0.5M generated data used for fine-tuning the model, model finetuned from BLOOMZ-7B1-mt on data generated by this project.\nRelated links:\nTags: Standard",
@@ -416,7 +442,8 @@
             "repo": "BELLE",
             "stars": 8275
           },
-          "title": "LianjiaTech/BELLE"
+          "title": "LianjiaTech/BELLE",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [],
@@ -431,7 +458,8 @@
             "repo": "minChatGPT",
             "stars": 226
           },
-          "title": "ethanyanjiali/minChatGPT"
+          "title": "ethanyanjiali/minChatGPT",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [],
@@ -441,12 +469,13 @@
             "archived": false,
             "id": 1271548133,
             "language": null,
-            "last_commit": "2026-08-24T07:51:28Z",
+            "last_commit": "2026-08-28T15:37:04Z",
             "owner": "TavernAI",
             "repo": "TavernAI",
-            "stars": 63
+            "stars": 65
           },
-          "title": "TavernAI/TavernAI"
+          "title": "TavernAI/TavernAI",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [],
@@ -459,9 +488,10 @@
             "last_commit": "2026-08-26T23:33:52Z",
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32727
+            "stars": 32763
           },
-          "title": "Cohee1207/SillyTavern"
+          "title": "Cohee1207/SillyTavern",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [],
@@ -476,7 +506,8 @@
             "repo": "h2ogpt",
             "stars": 11969
           },
-          "title": "h2oai/h2ogpt"
+          "title": "h2oai/h2ogpt",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [],
@@ -489,9 +520,10 @@
             "last_commit": "2026-08-04T10:46:09Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18605
+            "stars": 18612
           },
-          "title": "mlc-ai/web-llm"
+          "title": "mlc-ai/web-llm",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [
@@ -508,7 +540,8 @@
                 "owner": "Stability-AI",
                 "repo": "StableLM",
                 "stars": 15684
-              }
+              },
+              "first_seen": "2026-08-28T20:14:39.899Z"
             }
           ],
           "description": "This repository contains Stability AI's ongoing development of the StableLM series of language models and will be continuously updated with new checkpoints.\nRelated links:\nTags: Full",
@@ -522,7 +555,8 @@
             "repo": "StableLM",
             "stars": 15684
           },
-          "title": "Stability-AI/StableLM"
+          "title": "Stability-AI/StableLM",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [
@@ -538,8 +572,9 @@
                 "last_commit": "2023-05-03T02:45:22Z",
                 "owner": "nichtdax",
                 "repo": "awesome-totally-open-chatgpt",
-                "stars": 4786
-              }
+                "stars": 4787
+              },
+              "first_seen": "2026-08-28T20:14:39.899Z"
             }
           ],
           "description": "ChatYuan: Large Language Model for Dialogue in Chinese and English (The repos are mostly in Chinese)\nRelated links:\nTags: Full",
@@ -553,7 +588,8 @@
             "repo": "ChatYuan",
             "stars": 1863
           },
-          "title": "clue-ai/ChatYuan"
+          "title": "clue-ai/ChatYuan",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         },
         {
           "children": [
@@ -569,8 +605,9 @@
                 "last_commit": "2026-05-27T13:16:14Z",
                 "owner": "OpenMOSS",
                 "repo": "MOSS",
-                "stars": 12232
-              }
+                "stars": 12234
+              },
+              "first_seen": "2026-08-28T20:14:39.899Z"
             }
           ],
           "description": "MOSS: An open-source tool-augmented conversational language model from Fudan University. (Most examples are in Chinese)\nRelated links:\nTags: Full",
@@ -582,16 +619,17 @@
             "last_commit": "2026-05-27T13:16:14Z",
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12232
+            "stars": 12234
           },
-          "title": "OpenLMLab/MOSS"
+          "title": "OpenLMLab/MOSS",
+          "first_seen": "2026-08-28T20:14:39.899Z"
         }
       ],
       "title": "The list"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:09:04.578Z",
+    "last_updated": "2026-08-28T20:14:39.899Z",
     "original_repository_info": {
       "archived": false,
       "id": 615695876,
@@ -599,7 +637,7 @@
       "last_commit": "2023-05-03T02:45:22Z",
       "owner": "nichtdax",
       "repo": "awesome-totally-open-chatgpt",
-      "stars": 4786
+      "stars": 4787
     },
     "original_repository_sha": "e30682ae1de8df142372b34e151291c31dd58081",
     "enhanced_repository": "enhansome/enhansome-totally-open-chatgpt",
