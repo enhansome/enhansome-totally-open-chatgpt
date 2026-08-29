@@ -9,12 +9,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+            "homepage": null,
             "id": 576380523,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-27T23:39:41Z",
+            "open_issues": 20,
             "owner": "lucidrains",
             "repo": "PaLM-rlhf-pytorch",
-            "stars": 7867
+            "stars": 7867,
+            "topics": [
+              "artificial-intelligence",
+              "attention-mechanisms",
+              "deep-learning",
+              "human-feedback",
+              "reinforcement-learning",
+              "transformers"
+            ]
           },
           "title": "lucidrains/PaLM-rlhf-pytorch",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -25,12 +37,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 608892940,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-09T19:09:58Z",
+            "open_issues": 92,
             "owner": "togethercomputer",
             "repo": "OpenChatKit",
-            "stars": 8983
+            "stars": 8983,
+            "topics": []
           },
           "title": "togethercomputer/OpenChatKit",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -41,12 +58,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.",
+            "homepage": null,
             "id": 580642043,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-17T17:38:16Z",
+            "open_issues": 840,
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47591
+            "stars": 47591,
+            "topics": []
           },
           "title": "oobabooga/text-generation-webui",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -57,12 +79,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "For GGUF support, see KoboldCPP: https://github.com/LostRuins/koboldcpp",
+            "homepage": "https://koboldai.com",
             "id": 363765247,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-01-16T17:01:49Z",
+            "open_issues": 120,
             "owner": "KoboldAI",
             "repo": "KoboldAI-Client",
-            "stars": 3944
+            "stars": 3944,
+            "topics": []
           },
           "title": "KoboldAI/KoboldAI-Client",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -73,12 +100,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+            "homepage": "https://open-assistant.io",
             "id": 577603990,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-17T01:55:35Z",
+            "open_issues": 296,
             "owner": "LAION-AI",
             "repo": "Open-Assistant",
-            "stars": 37408
+            "stars": 37408,
+            "topics": [
+              "ai",
+              "assistant",
+              "chatgpt",
+              "discord-bot",
+              "language-model",
+              "machine-learning",
+              "nextjs",
+              "python",
+              "rlhf"
+            ]
           },
           "title": "LAION-AI/Open-Assistant",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -94,12 +136,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LLM inference in C/C++",
+                    "homepage": "https://llama.app",
                     "id": 612354784,
                     "language": "C++",
-                    "last_commit": "2026-08-28T19:23:11Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T22:38:22Z",
+                    "open_issues": 2273,
                     "owner": "ggml-org",
                     "repo": "llama.cpp",
-                    "stars": 126096
+                    "stars": 126131,
+                    "topics": [
+                      "ggml"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
                 },
@@ -110,12 +159,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+                    "homepage": "https://nomic.ai/gpt4all",
                     "id": 619959033,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-05-27T20:05:19Z",
+                    "open_issues": 773,
                     "owner": "nomic-ai",
                     "repo": "gpt4all",
-                    "stars": 77398
+                    "stars": 77397,
+                    "topics": [
+                      "ai-chat",
+                      "llm-inference"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
                 },
@@ -126,12 +183,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Making large AI models cheaper, faster and more accessible",
+                    "homepage": "https://www.colossalai.org",
                     "id": 422274596,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T17:46:02Z",
+                    "open_issues": 504,
                     "owner": "hpcaitech",
                     "repo": "ColossalAI",
-                    "stars": 41443
+                    "stars": 41443,
+                    "topics": [
+                      "ai",
+                      "big-model",
+                      "data-parallelism",
+                      "deep-learning",
+                      "distributed-computing",
+                      "foundation-models",
+                      "heterogeneous-training",
+                      "hpc",
+                      "inference",
+                      "large-scale",
+                      "model-parallelism",
+                      "pipeline-parallelism"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
                 },
@@ -142,12 +217,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+                    "homepage": null,
                     "id": 615882673,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-01T00:25:53Z",
+                    "open_issues": 1041,
                     "owner": "lm-sys",
                     "repo": "FastChat",
-                    "stars": 39526
+                    "stars": 39526,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
                 },
@@ -158,12 +238,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Instruct-tune LLaMA on consumer hardware",
+                    "homepage": null,
                     "id": 613591358,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-29T13:37:49Z",
+                    "open_issues": 365,
                     "owner": "tloen",
                     "repo": "alpaca-lora",
-                    "stars": 18908
+                    "stars": 18908,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
                 },
@@ -174,12 +259,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "[Unmaintained, see README] An ecosystem of Rust libraries for working with large language models",
+                    "homepage": "https://docs.rs/llm/latest/llm/",
                     "id": 613486352,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-06-24T16:29:01Z",
+                    "open_issues": 81,
                     "owner": "rustformers",
                     "repo": "llm",
-                    "stars": 6153
+                    "stars": 6153,
+                    "topics": [
+                      "ai",
+                      "ggml",
+                      "llm",
+                      "ml",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
                 },
@@ -190,12 +286,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+                    "homepage": null,
                     "id": 617504730,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-07-01T16:31:39Z",
+                    "open_issues": 107,
                     "owner": "Lightning-AI",
                     "repo": "lit-llama",
-                    "stars": 6085
+                    "stars": 6085,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
                 },
@@ -206,12 +307,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
+                    "homepage": "https://serge.chat",
                     "id": 615973283,
                     "language": "Svelte",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-21T08:07:36Z",
+                    "open_issues": 33,
                     "owner": "serge-chat",
                     "repo": "serge",
-                    "stars": 5714
+                    "stars": 5714,
+                    "topics": [
+                      "alpaca",
+                      "docker",
+                      "fastapi",
+                      "llama",
+                      "llamacpp",
+                      "nginx",
+                      "python",
+                      "svelte",
+                      "sveltekit",
+                      "tailwindcss",
+                      "web"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
                 },
@@ -222,12 +340,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT",
+                    "homepage": null,
                     "id": 607326239,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-01-18T15:53:00Z",
+                    "open_issues": 3,
                     "owner": "henrywoo",
                     "repo": "chatllama",
-                    "stars": 1201
+                    "stars": 1201,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
                 },
@@ -238,12 +361,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 615428249,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-03-22T15:11:06Z",
+                    "open_issues": 12,
                     "owner": "pointnetwork",
                     "repo": "point-alpaca",
-                    "stars": 398
+                    "stars": 398,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
                 }
@@ -257,12 +385,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+            "homepage": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
             "id": 612427246,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-17T09:43:05Z",
+            "open_issues": 186,
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30246
+            "stars": 30246,
+            "topics": [
+              "deep-learning",
+              "instruction-following",
+              "language-model"
+            ]
           },
           "title": "tatsu-lab/stanford_alpaca",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -273,12 +410,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+            "homepage": null,
             "id": 588477692,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-19T19:09:29Z",
+            "open_issues": 61,
             "owner": "BlinkDL",
             "repo": "ChatRWKV",
-            "stars": 9498
+            "stars": 9498,
+            "topics": [
+              "chatbot",
+              "chatgpt",
+              "language-model",
+              "pytorch",
+              "rnn",
+              "rwkv"
+            ]
           },
           "title": "BlinkDL/ChatRWKV",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -292,12 +441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WebUI for ChatGLM-6B",
+                "homepage": null,
                 "id": 613843974,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-25T13:32:59Z",
+                "open_issues": 25,
                 "owner": "Akegarasu",
                 "repo": "ChatGLM-webui",
-                "stars": 1888
+                "stars": 1888,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.899Z"
             },
@@ -308,12 +462,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.",
+                "homepage": null,
                 "id": 603131458,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-24T05:50:55Z",
+                "open_issues": 37,
                 "owner": "hyperonym",
                 "repo": "basaran",
-                "stars": 1282
+                "stars": 1282,
+                "topics": [
+                  "generative",
+                  "gpt",
+                  "huggingface",
+                  "language-model",
+                  "llama",
+                  "llm",
+                  "model",
+                  "natural-language-processing",
+                  "nlp",
+                  "openai-api",
+                  "python",
+                  "text-generation",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.899Z"
             },
@@ -324,12 +497,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for fintune ChatGLM-6b using low-rank adaptation (LoRA)",
+                "homepage": null,
                 "id": 614820404,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-18T17:27:34Z",
+                "open_issues": 27,
                 "owner": "lich99",
                 "repo": "ChatGLM-finetune-LoRA",
-                "stars": 715
+                "stars": 715,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.899Z"
             },
@@ -340,12 +518,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy ChatGLM on Modelz",
+                "homepage": null,
                 "id": 615148864,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2023-03-20T04:36:22Z",
+                "open_issues": 0,
                 "owner": "tensorchord",
                 "repo": "modelz-ChatGLM",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.899Z"
             }
@@ -354,12 +537,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型",
+            "homepage": null,
             "id": 613349035,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-27T04:05:25Z",
+            "open_issues": 605,
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40983
+            "stars": 40983,
+            "topics": []
           },
           "title": "THUDM/ChatGLM-6B",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -370,12 +558,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Crosslingual Generalization through Multitask Finetuning",
+            "homepage": "https://arxiv.org/abs/2211.01786",
             "id": 553619111,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-22T00:38:33Z",
+            "open_issues": 12,
             "owner": "bigscience-workshop",
             "repo": "xmtf",
-            "stars": 534
+            "stars": 534,
+            "topics": [
+              "bloom",
+              "bloomz",
+              "instruction-tuning",
+              "language-models",
+              "large-language-models",
+              "mt0",
+              "multilingual-nlp",
+              "multitask-learning",
+              "t5",
+              "zero-shot-learning"
+            ]
           },
           "title": "bigscience-workshop/xmtf",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -386,12 +590,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
+            "homepage": null,
             "id": 545104023,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-08T20:07:19Z",
+            "open_issues": 102,
             "owner": "CarperAI",
             "repo": "trlx",
-            "stars": 4755
+            "stars": 4755,
+            "topics": [
+              "machine-learning",
+              "pytorch",
+              "reinforcement-learning"
+            ]
           },
           "title": "carperai/trlx",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -402,12 +615,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+            "homepage": "https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html",
             "id": 618511002,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-30T18:36:16Z",
+            "open_issues": 5,
             "owner": "databrickslabs",
             "repo": "dolly",
-            "stars": 10805
+            "stars": 10805,
+            "topics": [
+              "chatbot",
+              "databricks",
+              "dolly",
+              "gpt"
+            ]
           },
           "title": "databrickslabs/dolly",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -421,12 +644,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）",
+                "homepage": null,
                 "id": 615256902,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-16T11:38:59Z",
+                "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8275
+                "stars": 8275,
+                "topics": [
+                  "bloom",
+                  "chinese-nlp",
+                  "gpt-evaluation",
+                  "gpt-q",
+                  "instruct-finetune",
+                  "instruct-gpt",
+                  "instruction-set",
+                  "llama",
+                  "lora",
+                  "open-models"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.899Z"
             }
@@ -435,12 +674,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）",
+            "homepage": null,
             "id": 615256902,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-16T11:38:59Z",
+            "open_issues": 106,
             "owner": "LianjiaTech",
             "repo": "BELLE",
-            "stars": 8275
+            "stars": 8275,
+            "topics": [
+              "bloom",
+              "chinese-nlp",
+              "gpt-evaluation",
+              "gpt-q",
+              "instruct-finetune",
+              "instruct-gpt",
+              "instruction-set",
+              "llama",
+              "lora",
+              "open-models"
+            ]
           },
           "title": "LianjiaTech/BELLE",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -451,12 +706,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A minimum example of aligning language models with RLHF similar to ChatGPT",
+            "homepage": null,
             "id": 601947829,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-09-26T06:22:13Z",
+            "open_issues": 4,
             "owner": "ethanyanjiali",
             "repo": "minChatGPT",
-            "stars": 226
+            "stars": 226,
+            "topics": []
           },
           "title": "ethanyanjiali/minChatGPT",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -467,12 +727,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An AI roleplay chat platform with the most advanced prompting system",
+            "homepage": "https://tavernai.net",
             "id": 1271548133,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-28T15:37:04Z",
+            "open_issues": 2,
             "owner": "TavernAI",
             "repo": "TavernAI",
-            "stars": 65
+            "stars": 64,
+            "topics": [
+              "ai-character",
+              "ai-chatbot",
+              "ai-model",
+              "prompt-engineering",
+              "roleplay"
+            ]
           },
           "title": "TavernAI/TavernAI",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -483,12 +754,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "LLM Frontend for Power Users.",
+            "homepage": "https://sillytavern.app",
             "id": 599524116,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T23:33:52Z",
+            "open_issues": 597,
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32763
+            "stars": 32771,
+            "topics": [
+              "ai",
+              "chat",
+              "llm"
+            ]
           },
           "title": "Cohee1207/SillyTavern",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -499,12 +779,32 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/",
+            "homepage": "http://h2o.ai",
             "id": 618613272,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-09T23:30:01Z",
+            "open_issues": 328,
             "owner": "h2oai",
             "repo": "h2ogpt",
-            "stars": 11969
+            "stars": 11971,
+            "topics": [
+              "ai",
+              "chatgpt",
+              "embeddings",
+              "fedramp",
+              "generative",
+              "gpt",
+              "gpt4all",
+              "llama2",
+              "llm",
+              "mixtral",
+              "pdf",
+              "private",
+              "privategpt",
+              "vectorstore"
+            ]
           },
           "title": "h2oai/h2ogpt",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -515,12 +815,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "High-performance In-browser LLM Inference Engine ",
+            "homepage": "https://webllm.mlc.ai",
             "id": 627561173,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T10:46:09Z",
+            "open_issues": 157,
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18612
+            "stars": 18611,
+            "topics": [
+              "chatgpt",
+              "deep-learning",
+              "language-model",
+              "llm",
+              "tvm",
+              "webgpu",
+              "webml"
+            ]
           },
           "title": "mlc-ai/web-llm",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -534,12 +847,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StableLM: Stability AI Language Models",
+                "homepage": null,
                 "id": 630023030,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-08T19:26:02Z",
+                "open_issues": 27,
                 "owner": "Stability-AI",
                 "repo": "StableLM",
-                "stars": 15684
+                "stars": 15684,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.899Z"
             }
@@ -548,12 +866,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "StableLM: Stability AI Language Models",
+            "homepage": null,
             "id": 630023030,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-08T19:26:02Z",
+            "open_issues": 27,
             "owner": "Stability-AI",
             "repo": "StableLM",
-            "stars": 15684
+            "stars": 15684,
+            "topics": []
           },
           "title": "Stability-AI/StableLM",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -567,12 +890,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of totally open alternatives to ChatGPT",
+                "homepage": null,
                 "id": 615695876,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2023-05-03T02:45:22Z",
+                "open_issues": 9,
                 "owner": "nichtdax",
                 "repo": "awesome-totally-open-chatgpt",
-                "stars": 4787
+                "stars": 4787,
+                "topics": [
+                  "alternative",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "chatgpt",
+                  "open-source"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.899Z"
             }
@@ -581,12 +916,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "ChatYuan: Large Language Model for Dialogue in Chinese and English",
+            "homepage": "https://www.clueai.cn",
             "id": 588565917,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-06-16T13:36:35Z",
+            "open_issues": 30,
             "owner": "clue-ai",
             "repo": "ChatYuan",
-            "stars": 1863
+            "stars": 1863,
+            "topics": []
           },
           "title": "clue-ai/ChatYuan",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -600,12 +940,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source tool-augmented conversational language model from Fudan University",
+                "homepage": "https://txsun1997.github.io/blogs/moss.html",
                 "id": 628296906,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-27T13:16:14Z",
+                "open_issues": 242,
                 "owner": "OpenMOSS",
                 "repo": "MOSS",
-                "stars": 12234
+                "stars": 12234,
+                "topics": [
+                  "chatgpt",
+                  "deep-learning",
+                  "dialogue-systems",
+                  "large-language-models",
+                  "natural-language-processing",
+                  "text-generation"
+                ]
               },
               "first_seen": "2026-08-28T20:14:39.899Z"
             }
@@ -614,12 +966,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An open-source tool-augmented conversational language model from Fudan University",
+            "homepage": "https://txsun1997.github.io/blogs/moss.html",
             "id": 628296906,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-27T13:16:14Z",
+            "open_issues": 242,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12234
+            "stars": 12234,
+            "topics": [
+              "chatgpt",
+              "deep-learning",
+              "dialogue-systems",
+              "large-language-models",
+              "natural-language-processing",
+              "text-generation"
+            ]
           },
           "title": "OpenLMLab/MOSS",
           "first_seen": "2026-08-28T20:14:39.899Z"
@@ -629,15 +993,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:14:39.899Z",
+    "last_updated": "2026-08-29T04:19:31.795Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of totally open alternatives to ChatGPT",
+      "homepage": null,
       "id": 615695876,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-05-03T02:45:22Z",
+      "open_issues": 9,
       "owner": "nichtdax",
       "repo": "awesome-totally-open-chatgpt",
-      "stars": 4787
+      "stars": 4787,
+      "topics": [
+        "alternative",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "chatgpt",
+        "open-source"
+      ]
     },
     "original_repository_sha": "e30682ae1de8df142372b34e151291c31dd58081",
     "enhanced_repository": "enhansome/enhansome-totally-open-chatgpt",
