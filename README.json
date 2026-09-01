@@ -64,10 +64,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-17T17:38:16Z",
-            "open_issues": 840,
+            "open_issues": 841,
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47599,
+            "stars": 47597,
             "topics": []
           },
           "title": "oobabooga/text-generation-webui",
@@ -88,7 +88,7 @@
             "open_issues": 120,
             "owner": "KoboldAI",
             "repo": "KoboldAI-Client",
-            "stars": 3945,
+            "stars": 3944,
             "topics": []
           },
           "title": "KoboldAI/KoboldAI-Client",
@@ -141,11 +141,11 @@
                     "id": 612354784,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-08-31T15:56:22Z",
-                    "open_issues": 2321,
+                    "last_commit": "2026-09-01T13:29:53Z",
+                    "open_issues": 2345,
                     "owner": "ggml-org",
                     "repo": "llama.cpp",
-                    "stars": 126519,
+                    "stars": 126635,
                     "topics": [
                       "ggml"
                     ]
@@ -168,7 +168,7 @@
                     "open_issues": 772,
                     "owner": "nomic-ai",
                     "repo": "gpt4all",
-                    "stars": 77389,
+                    "stars": 77385,
                     "topics": [
                       "ai-chat",
                       "llm-inference"
@@ -188,7 +188,7 @@
                     "id": 422274596,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-24T17:46:02Z",
+                    "last_commit": "2026-08-31T17:52:00Z",
                     "open_issues": 504,
                     "owner": "hpcaitech",
                     "repo": "ColossalAI",
@@ -226,7 +226,7 @@
                     "open_issues": 1041,
                     "owner": "lm-sys",
                     "repo": "FastChat",
-                    "stars": 39527,
+                    "stars": 39525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
@@ -316,7 +316,7 @@
                     "open_issues": 33,
                     "owner": "serge-chat",
                     "repo": "serge",
-                    "stars": 5713,
+                    "stars": 5712,
                     "topics": [
                       "alpaca",
                       "docker",
@@ -394,7 +394,7 @@
             "open_issues": 186,
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30246,
+            "stars": 30244,
             "topics": [
               "deep-learning",
               "instruction-following",
@@ -419,7 +419,7 @@
             "open_issues": 61,
             "owner": "BlinkDL",
             "repo": "ChatRWKV",
-            "stars": 9500,
+            "stars": 9499,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -624,7 +624,7 @@
             "open_issues": 5,
             "owner": "databrickslabs",
             "repo": "dolly",
-            "stars": 10804,
+            "stars": 10803,
             "topics": [
               "chatbot",
               "databricks",
@@ -759,11 +759,11 @@
             "id": 599524116,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-26T23:33:52Z",
-            "open_issues": 600,
+            "last_commit": "2026-08-31T22:58:51Z",
+            "open_issues": 598,
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32879,
+            "stars": 32907,
             "topics": [
               "ai",
               "chat",
@@ -788,7 +788,7 @@
             "open_issues": 328,
             "owner": "h2oai",
             "repo": "h2ogpt",
-            "stars": 11971,
+            "stars": 11970,
             "topics": [
               "ai",
               "chatgpt",
@@ -824,7 +824,7 @@
             "open_issues": 157,
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18624,
+            "stars": 18654,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -856,7 +856,7 @@
                 "open_issues": 27,
                 "owner": "Stability-AI",
                 "repo": "StableLM",
-                "stars": 15682,
+                "stars": 15681,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.899Z"
@@ -875,7 +875,7 @@
             "open_issues": 27,
             "owner": "Stability-AI",
             "repo": "StableLM",
-            "stars": 15682,
+            "stars": 15681,
             "topics": []
           },
           "title": "Stability-AI/StableLM",
@@ -899,7 +899,7 @@
                 "open_issues": 9,
                 "owner": "nichtdax",
                 "repo": "awesome-totally-open-chatgpt",
-                "stars": 4787,
+                "stars": 4786,
                 "topics": [
                   "alternative",
                   "awesome",
@@ -940,7 +940,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "An open-source tool-augmented conversational language model from Fudan University",
+                "description": "An open-source, tool-augmented conversational language model from Fudan University",
                 "homepage": "https://txsun1997.github.io/blogs/moss.html",
                 "id": 628296906,
                 "language": "Python",
@@ -949,7 +949,7 @@
                 "open_issues": 243,
                 "owner": "OpenMOSS",
                 "repo": "MOSS",
-                "stars": 12236,
+                "stars": 12239,
                 "topics": [
                   "chatgpt",
                   "deep-learning",
@@ -966,7 +966,7 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
-            "description": "An open-source tool-augmented conversational language model from Fudan University",
+            "description": "An open-source, tool-augmented conversational language model from Fudan University",
             "homepage": "https://txsun1997.github.io/blogs/moss.html",
             "id": 628296906,
             "language": "Python",
@@ -975,7 +975,7 @@
             "open_issues": 243,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12236,
+            "stars": 12239,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T16:13:45.940Z",
+    "last_updated": "2026-09-01T13:33:14.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of totally open alternatives to ChatGPT",
@@ -1005,7 +1005,7 @@
       "open_issues": 9,
       "owner": "nichtdax",
       "repo": "awesome-totally-open-chatgpt",
-      "stars": 4787,
+      "stars": 4786,
       "topics": [
         "alternative",
         "awesome",
