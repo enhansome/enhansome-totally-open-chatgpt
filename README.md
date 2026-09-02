@@ -20,7 +20,7 @@ Tags:
 
 Other revelant lists:
 
-* [yaodongC/awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) ⭐ 1,154 | 🐛 4 | 📅 2024-01-04: A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
+* [yaodongC/awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) ⭐ 1,153 | 🐛 4 | 📅 2024-01-04: A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
 
 # Table of Contents
 
@@ -79,19 +79,19 @@ Related links:
 
 Tags: Full
 
-## [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,597 | 🐛 841 | 🌐 Python | 📅 2026-08-17
+## [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,598 | 🐛 842 | 🌐 Python | 📅 2026-08-17
 
 A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.
 
 Tags: Full
 
-## [KoboldAI/KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client) ⭐ 3,944 | 🐛 120 | 🌐 Python | 📅 2025-01-16
+## [KoboldAI/KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client) ⭐ 3,945 | 🐛 120 | 🌐 Python | 📅 2025-01-16
 
 This is a browser-based front-end for AI-assisted writing with multiple local & remote AI models. It offers the standard array of tools, including Memory, Author’s Note, World Info, Save & Load, adjustable AI settings, formatting options, and the ability to import existing AI Dungeon adventures. You can also turn on Adventure mode and play the game like AI Dungeon Unleashed.
 
 Tags: Full
 
-## [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ⭐ 37,404 | 🐛 296 | 🌐 Python | 📅 2024-08-17
+## [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ⭐ 37,402 | 🐛 296 | 🌐 Python | 📅 2024-08-17
 
 OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 
@@ -102,7 +102,7 @@ Related links:
 
 Tags: Full
 
-## [tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,244 | 🐛 186 | 🌐 Python | 📅 2024-07-17
+## [tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,243 | 🐛 186 | 🌐 Python | 📅 2024-07-17
 
 This is the repo for the Stanford Alpaca project, which aims to build and share an instruction-following LLaMA model.
 
@@ -110,11 +110,11 @@ Tags: Complicated
 
 ### Other LLaMA-derived projects:
 
-* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 126,635 | 🐛 2,345 | 🌐 C++ | 📅 2026-09-01 Ports for inferencing LLaMA in C/C++ running on CPUs, supports alpaca, gpt4all, etc.
-* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,385 | 🐛 772 | 🌐 C++ | 📅 2025-05-27 Demo, data and code to train an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMA.
-* [hpcaitech/ColossalAI#ColossalChat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) ⭐ 41,448 | 🐛 504 | 🌐 Python | 📅 2026-08-31 An open-source solution for cloning ChatGPT with a complete RLHF pipeline.
-* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,525 | 🐛 1,041 | 🌐 Python | 📅 2026-05-01 An open platform for training, serving, and evaluating large language model based chatbots.
-* [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,910 | 🐛 365 | 🌐 Jupyter Notebook | 📅 2024-07-29 Code for rproducing the Stanford Alpaca results using low-rank adaptation (LoRA).
+* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 126,757 | 🐛 2,366 | 🌐 C++ | 📅 2026-09-02 Ports for inferencing LLaMA in C/C++ running on CPUs, supports alpaca, gpt4all, etc.
+* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,386 | 🐛 772 | 🌐 C++ | 📅 2025-05-27 Demo, data and code to train an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMA.
+* [hpcaitech/ColossalAI#ColossalChat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) ⭐ 41,445 | 🐛 504 | 🌐 Python | 📅 2026-08-31 An open-source solution for cloning ChatGPT with a complete RLHF pipeline.
+* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,521 | 🐛 1,042 | 🌐 Python | 📅 2026-05-01 An open platform for training, serving, and evaluating large language model based chatbots.
+* [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,911 | 🐛 365 | 🌐 Jupyter Notebook | 📅 2024-07-29 Code for rproducing the Stanford Alpaca results using low-rank adaptation (LoRA).
 * [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ⚠️ Archived Rust port of the llama.cpp project.
 * [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) ⭐ 6,085 | 🐛 107 | 🌐 Python | 📅 2025-07-01 Implementation of the LLaMA language model based on nanoGPT.
 * [nsarrazin/serge](https://github.com/nsarrazin/serge) ⚠️ Archived A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
@@ -152,15 +152,15 @@ Related links:
 
 Tags: Standard
 
-## [carperai/trlx](https://github.com/carperai/trlx) ⭐ 4,755 | 🐛 102 | 🌐 Python | 📅 2024-01-08
+## [carperai/trlx](https://github.com/carperai/trlx) ⭐ 4,754 | 🐛 102 | 🌐 Python | 📅 2024-01-08
 
 A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF), supporting online RL up to 20b params and offline RL to larger models. Basically what you would use to finetune GPT into ChatGPT.
 
 Tags: Bare
 
-## [databrickslabs/dolly](https://github.com/databrickslabs/dolly) ⭐ 10,803 | 🐛 5 | 🌐 Python | 📅 2023-06-30
+## [databrickslabs/dolly](https://github.com/databrickslabs/dolly) ⭐ 10,804 | 🐛 5 | 🌐 Python | 📅 2023-06-30
 
-Databricks’ dolly-v2-12b, an instruction-following large language model trained on the Databricks machine learning platform that is licensed for commercial use. Based on pythia-12b trained on \~15k instruction/response fine tuning records [databricks-dolly-15k](https://github.com/databrickslabs/dolly/tree/master/data) ⭐ 10,803 | 🐛 5 | 🌐 Python | 📅 2023-06-30 generated by Databricks employees in capability domains from the InstructGPT paper.
+Databricks’ dolly-v2-12b, an instruction-following large language model trained on the Databricks machine learning platform that is licensed for commercial use. Based on pythia-12b trained on \~15k instruction/response fine tuning records [databricks-dolly-15k](https://github.com/databrickslabs/dolly/tree/master/data) ⭐ 10,804 | 🐛 5 | 🌐 Python | 📅 2023-06-30 generated by Databricks employees in capability domains from the InstructGPT paper.
 
 Related links:
 
@@ -169,13 +169,13 @@ Related links:
 
 Tags: Standard
 
-## [LianjiaTech/BELLE](https://github.com/LianjiaTech/BELLE) ⭐ 8,275 | 🐛 106 | 🌐 HTML | 📅 2024-10-16
+## [LianjiaTech/BELLE](https://github.com/LianjiaTech/BELLE) ⭐ 8,274 | 🐛 106 | 🌐 HTML | 📅 2024-10-16
 
 The goal of this project is to promote the development of the open-source community for Chinese language large-scale conversational models. This project optimizes Chinese performance in addition to original Stanford Alpaca. The model finetuning uses only data generated via ChatGPT (without other data). This repo contains: 175 chinese seed tasks used for generating the data, code for generating the data, 0.5M generated data used for fine-tuning the model, model finetuned from BLOOMZ-7B1-mt on data generated by this project.
 
 Related links:
 
-* [English readme](https://github.com/LianjiaTech/BELLE#-belle-be-large-language-model-engine-1) ⭐ 8,275 | 🐛 106 | 🌐 HTML | 📅 2024-10-16
+* [English readme](https://github.com/LianjiaTech/BELLE#-belle-be-large-language-model-engine-1) ⭐ 8,274 | 🐛 106 | 🌐 HTML | 📅 2024-10-16
 
 Tags: Standard
 
@@ -200,13 +200,13 @@ Related links:
 
 Tags: Standard
 
-## [TavernAI/TavernAI](https://github.com/TavernAI/TavernAI) ⭐ 65 | 🐛 2 | 📅 2026-08-28
+## [TavernAI/TavernAI](https://github.com/TavernAI/TavernAI) ⭐ 66 | 🐛 2 | 📅 2026-08-28
 
 Atmospheric adventure chat for AI language model **Pygmalion** by default and other models such as **KoboldAI**, ChatGPT, GPT-4
 
 Tags: Full
 
-## [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern) ⭐ 32,907 | 🐛 598 | 🌐 JavaScript | 📅 2026-08-31
+## [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern) ⭐ 32,946 | 🐛 599 | 🌐 JavaScript | 📅 2026-08-31
 
 SillyTavern is a fork of TavernAI 1.2.8 which is under more active development, and has added many major features. At this point they can be thought of as completely independent programs. On its own Tavern is useless, as it's just a user interface. You have to have access to an AI system backend that can act as the roleplay character. There are various supported backends: OpenAPI API (GPT), KoboldAI (either running locally or on Google Colab), and more.
 
@@ -230,7 +230,7 @@ Related links:
 
 Tags: Full
 
-## [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ⭐ 18,654 | 🐛 157 | 🌐 TypeScript | 📅 2026-08-04
+## [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ⭐ 18,711 | 🐛 149 | 🌐 TypeScript | 📅 2026-09-02
 
 Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 
@@ -240,13 +240,13 @@ Related links:
 
 Tags: Full
 
-## [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) ⭐ 15,681 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08
+## [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) ⭐ 15,680 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08
 
 This repository contains Stability AI's ongoing development of the StableLM series of language models and will be continuously updated with new checkpoints.
 
 Related links:
 
-* [StableVicuna](https://github.com/Stability-AI/StableLM#stablevicuna) ⭐ 15,681 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08 an RLHF fine-tune of Vicuna-13B v0, which itself is a fine-tune of LLaMA-13B.
+* [StableVicuna](https://github.com/Stability-AI/StableLM#stablevicuna) ⭐ 15,680 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08 an RLHF fine-tune of Vicuna-13B v0, which itself is a fine-tune of LLaMA-13B.
 * [huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat](https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat)
 
 Tags: Full
@@ -257,7 +257,7 @@ ChatYuan: Large Language Model for Dialogue in Chinese and English (The repos ar
 
 Related links:
 
-* [A bit translated readme to English](https://github.com/nichtdax/awesome-totally-open-chatgpt/issues/18#issuecomment-1492826662) ⭐ 4,786 | 🐛 9 | 📅 2023-05-03
+* [A bit translated readme to English](https://github.com/nichtdax/awesome-totally-open-chatgpt/issues/18#issuecomment-1492826662) ⭐ 4,785 | 🐛 9 | 📅 2023-05-03
 
 Tags: Full
 
@@ -273,4 +273,4 @@ Tags: Full
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
