@@ -20,7 +20,7 @@ Tags:
 
 Other revelant lists:
 
-* [yaodongC/awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) ⭐ 1,154 | 🐛 4 | 📅 2024-01-04: A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
+* [yaodongC/awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) ⭐ 1,153 | 🐛 4 | 📅 2024-01-04: A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
 
 # Table of Contents
 
@@ -69,7 +69,7 @@ Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of th
 
 Tags: Bare
 
-## [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) ⭐ 8,982 | 🐛 92 | 🌐 Python | 📅 2024-04-09
+## [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) ⭐ 8,981 | 🐛 92 | 🌐 Python | 📅 2024-04-09
 
 OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications.
 
@@ -79,7 +79,7 @@ Related links:
 
 Tags: Full
 
-## [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,695 | 🐛 841 | 🌐 Python | 📅 2026-08-17
+## [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,698 | 🐛 842 | 🌐 Python | 📅 2026-08-17
 
 A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.
 
@@ -91,7 +91,7 @@ This is a browser-based front-end for AI-assisted writing with multiple local & 
 
 Tags: Full
 
-## [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ⭐ 37,393 | 🐛 296 | 🌐 Python | 📅 2024-08-17
+## [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ⭐ 37,396 | 🐛 296 | 🌐 Python | 📅 2024-08-17
 
 OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 
@@ -102,7 +102,7 @@ Related links:
 
 Tags: Full
 
-## [tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,232 | 🐛 187 | 🌐 Python | 📅 2024-07-17
+## [tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,230 | 🐛 187 | 🌐 Python | 📅 2024-07-17
 
 This is the repo for the Stanford Alpaca project, which aims to build and share an instruction-following LLaMA model.
 
@@ -110,24 +110,24 @@ Tags: Complicated
 
 ### Other LLaMA-derived projects:
 
-* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 129,178 | 🐛 2,537 | 🌐 C++ | 📅 2026-09-22 Ports for inferencing LLaMA in C/C++ running on CPUs, supports alpaca, gpt4all, etc.
-* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,390 | 🐛 772 | 🌐 C++ | 📅 2025-05-27 Demo, data and code to train an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMA.
-* [hpcaitech/ColossalAI#ColossalChat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) ⭐ 41,438 | 🐛 510 | 🌐 Python | 📅 2026-09-22 An open-source solution for cloning ChatGPT with a complete RLHF pipeline.
-* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,545 | 🐛 1,042 | 🌐 Python | 📅 2026-05-01 An open platform for training, serving, and evaluating large language model based chatbots.
-* [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,903 | 🐛 365 | 🌐 Jupyter Notebook | 📅 2024-07-29 Code for rproducing the Stanford Alpaca results using low-rank adaptation (LoRA).
+* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 129,298 | 🐛 2,520 | 🌐 C++ | 📅 2026-09-23 Ports for inferencing LLaMA in C/C++ running on CPUs, supports alpaca, gpt4all, etc.
+* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,389 | 🐛 773 | 🌐 C++ | 📅 2025-05-27 Demo, data and code to train an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMA.
+* [hpcaitech/ColossalAI#ColossalChat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) ⭐ 41,439 | 🐛 514 | 🌐 Python | 📅 2026-09-23 An open-source solution for cloning ChatGPT with a complete RLHF pipeline.
+* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,549 | 🐛 1,042 | 🌐 Python | 📅 2026-05-01 An open platform for training, serving, and evaluating large language model based chatbots.
+* [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,902 | 🐛 365 | 🌐 Jupyter Notebook | 📅 2024-07-29 Code for rproducing the Stanford Alpaca results using low-rank adaptation (LoRA).
 * [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ⚠️ Archived Rust port of the llama.cpp project.
 * [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) ⭐ 6,081 | 🐛 107 | 🌐 Python | 📅 2025-07-01 Implementation of the LLaMA language model based on nanoGPT.
 * [nsarrazin/serge](https://github.com/nsarrazin/serge) ⚠️ Archived A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 * [juncongmoo/chatllama](https://github.com/juncongmoo/chatllama) ⭐ 1,200 | 🐛 3 | 🌐 Python | 📅 2025-01-18 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU.
 * [pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca) ⭐ 398 | 🐛 12 | 🌐 Python | 📅 2023-03-22 Released weights recreated from Stanford Alpaca, an experiment in fine-tuning LLaMA on a synthetic instruction dataset.
 
-## [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ⭐ 9,498 | 🐛 62 | 🌐 Python | 📅 2026-07-19
+## [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ⭐ 9,497 | 🐛 62 | 🌐 Python | 📅 2026-07-19
 
 ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 
 Tags: Full
 
-## [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,951 | 🐛 605 | 🌐 Python | 📅 2024-06-27
+## [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,948 | 🐛 605 | 🌐 Python | 📅 2024-06-27
 
 ChatGLM-6B is an open bilingual language model based on General Language Model (GLM) framework, with 6.2 billion parameters. With the quantization technique, users can deploy locally on consumer-grade graphics cards (only 6GB of GPU memory is required at the INT4 quantization level).
 
@@ -141,7 +141,7 @@ Related links:
 
 Tags: Full
 
-## [bigscience-workshop/xmtf](https://github.com/bigscience-workshop/xmtf) ⭐ 534 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-09-22
+## [bigscience-workshop/xmtf](https://github.com/bigscience-workshop/xmtf) ⭐ 533 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-09-22
 
 This repository provides an overview of all components used for the creation of BLOOMZ & mT0 and xP3 introduced in the paper [Crosslingual Generalization through Multitask Finetuning](https://arxiv.org/abs/2211.01786).
 
@@ -200,13 +200,13 @@ Related links:
 
 Tags: Standard
 
-## [TavernAI/TavernAI](https://github.com/TavernAI/TavernAI) ⭐ 81 | 🐛 3 | 📅 2026-09-19
+## [TavernAI/TavernAI](https://github.com/TavernAI/TavernAI) ⭐ 82 | 🐛 3 | 📅 2026-09-19
 
 Atmospheric adventure chat for AI language model **Pygmalion** by default and other models such as **KoboldAI**, ChatGPT, GPT-4
 
 Tags: Full
 
-## [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern) ⭐ 33,675 | 🐛 628 | 🌐 JavaScript | 📅 2026-09-14
+## [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern) ⭐ 33,709 | 🐛 631 | 🌐 JavaScript | 📅 2026-09-14
 
 SillyTavern is a fork of TavernAI 1.2.8 which is under more active development, and has added many major features. At this point they can be thought of as completely independent programs. On its own Tavern is useless, as it's just a user interface. You have to have access to an AI system backend that can act as the roleplay character. There are various supported backends: OpenAPI API (GPT), KoboldAI (either running locally or on Google Colab), and more.
 
@@ -230,7 +230,7 @@ Related links:
 
 Tags: Full
 
-## [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ⭐ 19,159 | 🐛 152 | 🌐 TypeScript | 📅 2026-09-15
+## [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ⭐ 19,169 | 🐛 152 | 🌐 TypeScript | 📅 2026-09-15
 
 Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 
@@ -240,13 +240,13 @@ Related links:
 
 Tags: Full
 
-## [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) ⭐ 15,676 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08
+## [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) ⭐ 15,674 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08
 
 This repository contains Stability AI's ongoing development of the StableLM series of language models and will be continuously updated with new checkpoints.
 
 Related links:
 
-* [StableVicuna](https://github.com/Stability-AI/StableLM#stablevicuna) ⭐ 15,676 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08 an RLHF fine-tune of Vicuna-13B v0, which itself is a fine-tune of LLaMA-13B.
+* [StableVicuna](https://github.com/Stability-AI/StableLM#stablevicuna) ⭐ 15,674 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08 an RLHF fine-tune of Vicuna-13B v0, which itself is a fine-tune of LLaMA-13B.
 * [huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat](https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat)
 
 Tags: Full
@@ -273,4 +273,4 @@ Tags: Full
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
