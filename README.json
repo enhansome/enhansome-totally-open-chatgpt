@@ -18,7 +18,7 @@
             "open_issues": 20,
             "owner": "lucidrains",
             "repo": "PaLM-rlhf-pytorch",
-            "stars": 7859,
+            "stars": 7860,
             "topics": [
               "artificial-intelligence",
               "attention-mechanisms",
@@ -67,7 +67,7 @@
             "open_issues": 847,
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47724,
+            "stars": 47726,
             "topics": []
           },
           "title": "oobabooga/text-generation-webui",
@@ -109,7 +109,7 @@
             "open_issues": 296,
             "owner": "LAION-AI",
             "repo": "Open-Assistant",
-            "stars": 37382,
+            "stars": 37381,
             "topics": [
               "ai",
               "assistant",
@@ -141,11 +141,11 @@
                     "id": 612354784,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T15:17:54Z",
-                    "open_issues": 2493,
+                    "last_commit": "2026-10-10T13:35:26Z",
+                    "open_issues": 2505,
                     "owner": "ggml-org",
                     "repo": "llama.cpp",
-                    "stars": 130637,
+                    "stars": 130727,
                     "topics": [
                       "ggml"
                     ]
@@ -168,7 +168,7 @@
                     "open_issues": 773,
                     "owner": "nomic-ai",
                     "repo": "gpt4all",
-                    "stars": 77374,
+                    "stars": 77368,
                     "topics": [
                       "ai-chat",
                       "llm-inference"
@@ -188,11 +188,11 @@
                     "id": 422274596,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-08T16:03:07Z",
+                    "last_commit": "2026-10-10T04:34:38Z",
                     "open_issues": 515,
                     "owner": "hpcaitech",
                     "repo": "ColossalAI",
-                    "stars": 41440,
+                    "stars": 41438,
                     "topics": [
                       "ai",
                       "big-model",
@@ -223,10 +223,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-05-01T00:25:53Z",
-                    "open_issues": 1044,
+                    "open_issues": 1045,
                     "owner": "lm-sys",
                     "repo": "FastChat",
-                    "stars": 39555,
+                    "stars": 39552,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
@@ -247,7 +247,7 @@
                     "open_issues": 364,
                     "owner": "tloen",
                     "repo": "alpaca-lora",
-                    "stars": 18890,
+                    "stars": 18892,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
@@ -295,7 +295,7 @@
                     "open_issues": 107,
                     "owner": "Lightning-AI",
                     "repo": "lit-llama",
-                    "stars": 6080,
+                    "stars": 6081,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
@@ -330,27 +330,6 @@
                       "tailwindcss",
                       "web"
                     ]
-                  },
-                  "first_seen": "2026-08-28T20:14:39.899Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "juncongmoo/chatllama",
-                  "description": "Open source implementation for LLaMA-based ChatGPT runnable in a single GPU.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT",
-                    "homepage": null,
-                    "id": 607326239,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-10-08T21:11:56Z",
-                    "open_issues": 3,
-                    "owner": "henrywoo",
-                    "repo": "chatllama",
-                    "stars": 1200,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
                 },
@@ -394,7 +373,7 @@
             "open_issues": 186,
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30232,
+            "stars": 30230,
             "topics": [
               "deep-learning",
               "instruction-following",
@@ -546,7 +525,7 @@
             "open_issues": 607,
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40929,
+            "stars": 40925,
             "topics": []
           },
           "title": "THUDM/ChatGLM-6B",
@@ -599,7 +578,7 @@
             "open_issues": 102,
             "owner": "CarperAI",
             "repo": "trlx",
-            "stars": 4756,
+            "stars": 4757,
             "topics": [
               "machine-learning",
               "pytorch",
@@ -624,7 +603,7 @@
             "open_issues": 5,
             "owner": "databrickslabs",
             "repo": "dolly",
-            "stars": 10808,
+            "stars": 10809,
             "topics": [
               "chatbot",
               "databricks",
@@ -760,10 +739,10 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-02T22:05:54Z",
-            "open_issues": 641,
+            "open_issues": 642,
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 34263,
+            "stars": 34293,
             "topics": [
               "ai",
               "chat",
@@ -788,7 +767,7 @@
             "open_issues": 328,
             "owner": "h2oai",
             "repo": "h2ogpt",
-            "stars": 11948,
+            "stars": 11947,
             "topics": [
               "ai",
               "chatgpt",
@@ -821,10 +800,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T09:29:29Z",
-            "open_issues": 149,
+            "open_issues": 150,
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 19251,
+            "stars": 19250,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -856,7 +835,7 @@
                 "open_issues": 27,
                 "owner": "Stability-AI",
                 "repo": "StableLM",
-                "stars": 15671,
+                "stars": 15669,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.899Z"
@@ -875,7 +854,7 @@
             "open_issues": 27,
             "owner": "Stability-AI",
             "repo": "StableLM",
-            "stars": 15671,
+            "stars": 15669,
             "topics": []
           },
           "title": "Stability-AI/StableLM",
@@ -964,7 +943,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T15:22:13.661Z",
+    "last_updated": "2026-10-10T14:31:41.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of totally open alternatives to ChatGPT",
