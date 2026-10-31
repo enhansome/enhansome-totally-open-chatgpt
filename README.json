@@ -46,7 +46,7 @@
             "open_issues": 92,
             "owner": "togethercomputer",
             "repo": "OpenChatKit",
-            "stars": 8983,
+            "stars": 8982,
             "topics": []
           },
           "title": "togethercomputer/OpenChatKit",
@@ -67,7 +67,7 @@
             "open_issues": 867,
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47726,
+            "stars": 47728,
             "topics": []
           },
           "title": "oobabooga/text-generation-webui",
@@ -109,7 +109,7 @@
             "open_issues": 295,
             "owner": "LAION-AI",
             "repo": "Open-Assistant",
-            "stars": 37364,
+            "stars": 37363,
             "topics": [
               "ai",
               "assistant",
@@ -141,11 +141,11 @@
                     "id": 612354784,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T15:05:24Z",
-                    "open_issues": 2585,
+                    "last_commit": "2026-10-31T11:34:11Z",
+                    "open_issues": 2603,
                     "owner": "ggml-org",
                     "repo": "llama.cpp",
-                    "stars": 132841,
+                    "stars": 132951,
                     "topics": [
                       "ggml"
                     ]
@@ -168,7 +168,7 @@
                     "open_issues": 776,
                     "owner": "nomic-ai",
                     "repo": "gpt4all",
-                    "stars": 77347,
+                    "stars": 77343,
                     "topics": [
                       "ai-chat",
                       "llm-inference"
@@ -192,7 +192,7 @@
                     "open_issues": 471,
                     "owner": "hpcaitech",
                     "repo": "ColossalAI",
-                    "stars": 41433,
+                    "stars": 41435,
                     "topics": [
                       "ai",
                       "big-model",
@@ -226,7 +226,7 @@
                     "open_issues": 1051,
                     "owner": "lm-sys",
                     "repo": "FastChat",
-                    "stars": 39549,
+                    "stars": 39553,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
@@ -295,7 +295,7 @@
                     "open_issues": 107,
                     "owner": "Lightning-AI",
                     "repo": "lit-llama",
-                    "stars": 6082,
+                    "stars": 6083,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:39.899Z"
@@ -316,7 +316,7 @@
                     "open_issues": 33,
                     "owner": "serge-chat",
                     "repo": "serge",
-                    "stars": 5697,
+                    "stars": 5696,
                     "topics": [
                       "alpaca",
                       "docker",
@@ -395,7 +395,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-19T19:09:29Z",
-            "open_issues": 62,
+            "open_issues": 61,
             "owner": "BlinkDL",
             "repo": "ChatRWKV",
             "stars": 9496,
@@ -429,7 +429,7 @@
                 "open_issues": 25,
                 "owner": "Akegarasu",
                 "repo": "ChatGLM-webui",
-                "stars": 1878,
+                "stars": 1877,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:14:39.899Z"
@@ -525,7 +525,7 @@
             "open_issues": 610,
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40895,
+            "stars": 40894,
             "topics": []
           },
           "title": "THUDM/ChatGLM-6B",
@@ -603,7 +603,7 @@
             "open_issues": 5,
             "owner": "databrickslabs",
             "repo": "dolly",
-            "stars": 10810,
+            "stars": 10812,
             "topics": [
               "chatbot",
               "databricks",
@@ -632,7 +632,7 @@
                 "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8264,
+                "stars": 8263,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -662,7 +662,7 @@
             "open_issues": 106,
             "owner": "LianjiaTech",
             "repo": "BELLE",
-            "stars": 8264,
+            "stars": 8263,
             "topics": [
               "bloom",
               "chinese-nlp",
@@ -715,7 +715,7 @@
             "open_issues": 4,
             "owner": "TavernAI",
             "repo": "TavernAI",
-            "stars": 104,
+            "stars": 107,
             "topics": [
               "ai-character",
               "ai-chatbot",
@@ -742,7 +742,7 @@
             "open_issues": 689,
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 35128,
+            "stars": 35153,
             "topics": [
               "ai",
               "chat",
@@ -767,7 +767,7 @@
             "open_issues": 328,
             "owner": "h2oai",
             "repo": "h2ogpt",
-            "stars": 11929,
+            "stars": 11930,
             "topics": [
               "ai",
               "chatgpt",
@@ -799,11 +799,11 @@
             "id": 627561173,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T10:41:15Z",
+            "last_commit": "2026-10-30T17:40:34Z",
             "open_issues": 152,
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 19330,
+            "stars": 19339,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -899,7 +899,7 @@
                 "open_issues": 244,
                 "owner": "OpenMOSS",
                 "repo": "MOSS",
-                "stars": 12320,
+                "stars": 12324,
                 "topics": [
                   "chatgpt",
                   "deep-learning",
@@ -925,7 +925,7 @@
             "open_issues": 244,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12320,
+            "stars": 12324,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -943,7 +943,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:06:53.112Z",
+    "last_updated": "2026-10-31T14:36:10.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of totally open alternatives to ChatGPT",
@@ -955,7 +955,7 @@
       "open_issues": 8,
       "owner": "nichtdax",
       "repo": "awesome-totally-open-chatgpt",
-      "stars": 4799,
+      "stars": 4800,
       "topics": [
         "alternative",
         "awesome",
