@@ -79,19 +79,19 @@ Related links:
 
 Tags: Full
 
-## [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,741 | 🐛 869 | 🌐 Python | 📅 2026-08-17
+## [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,743 | 🐛 869 | 🌐 Python | 📅 2026-08-17
 
 A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.
 
 Tags: Full
 
-## [KoboldAI/KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client) ⭐ 3,970 | 🐛 119 | 🌐 Python | 📅 2026-10-14
+## [KoboldAI/KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client) ⭐ 3,969 | 🐛 119 | 🌐 Python | 📅 2026-10-14
 
 This is a browser-based front-end for AI-assisted writing with multiple local & remote AI models. It offers the standard array of tools, including Memory, Author’s Note, World Info, Save & Load, adjustable AI settings, formatting options, and the ability to import existing AI Dungeon adventures. You can also turn on Adventure mode and play the game like AI Dungeon Unleashed.
 
 Tags: Full
 
-## [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ⭐ 37,343 | 🐛 295 | 🌐 Python | 📅 2024-08-17
+## [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ⭐ 37,345 | 🐛 295 | 🌐 Python | 📅 2024-08-17
 
 OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 
@@ -110,10 +110,10 @@ Tags: Complicated
 
 ### Other LLaMA-derived projects:
 
-* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 136,069 | 🐛 2,651 | 🌐 C++ | 📅 2026-11-23 Ports for inferencing LLaMA in C/C++ running on CPUs, supports alpaca, gpt4all, etc.
+* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 136,121 | 🐛 2,655 | 🌐 C++ | 📅 2026-11-24 Ports for inferencing LLaMA in C/C++ running on CPUs, supports alpaca, gpt4all, etc.
 * [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,330 | 🐛 772 | 🌐 C++ | 📅 2025-05-27 Demo, data and code to train an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMA.
-* [hpcaitech/ColossalAI#ColossalChat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) ⭐ 41,426 | 🐛 360 | 🌐 Python | 📅 2026-11-23 An open-source solution for cloning ChatGPT with a complete RLHF pipeline.
-* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,549 | 🐛 1,055 | 🌐 Python | 📅 2026-05-01 An open platform for training, serving, and evaluating large language model based chatbots.
+* [hpcaitech/ColossalAI#ColossalChat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) ⭐ 41,423 | 🐛 360 | 🌐 Python | 📅 2026-11-23 An open-source solution for cloning ChatGPT with a complete RLHF pipeline.
+* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,548 | 🐛 1,055 | 🌐 Python | 📅 2026-05-01 An open platform for training, serving, and evaluating large language model based chatbots.
 * [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,881 | 🐛 364 | 🌐 Jupyter Notebook | 📅 2024-07-29 Code for rproducing the Stanford Alpaca results using low-rank adaptation (LoRA).
 * [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ⚠️ Archived Rust port of the llama.cpp project.
 * [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) ⭐ 6,078 | 🐛 106 | 🌐 Python | 📅 2025-07-01 Implementation of the LLaMA language model based on nanoGPT.
@@ -127,7 +127,7 @@ ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open
 
 Tags: Full
 
-## [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,843 | 🐛 609 | 🌐 Python | 📅 2024-06-27
+## [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,838 | 🐛 609 | 🌐 Python | 📅 2024-06-27
 
 ChatGLM-6B is an open bilingual language model based on General Language Model (GLM) framework, with 6.2 billion parameters. With the quantization technique, users can deploy locally on consumer-grade graphics cards (only 6GB of GPU memory is required at the INT4 quantization level).
 
@@ -206,7 +206,7 @@ Atmospheric adventure chat for AI language model **Pygmalion** by default and ot
 
 Tags: Full
 
-## [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern) ⭐ 35,990 | 🐛 540 | 🌐 JavaScript | 📅 2026-11-22
+## [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern) ⭐ 36,041 | 🐛 546 | 🌐 JavaScript | 📅 2026-11-22
 
 SillyTavern is a fork of TavernAI 1.2.8 which is under more active development, and has added many major features. At this point they can be thought of as completely independent programs. On its own Tavern is useless, as it's just a user interface. You have to have access to an AI system backend that can act as the roleplay character. There are various supported backends: OpenAPI API (GPT), KoboldAI (either running locally or on Google Colab), and more.
 
@@ -230,7 +230,7 @@ Related links:
 
 Tags: Full
 
-## [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ⭐ 19,399 | 🐛 160 | 🌐 TypeScript | 📅 2026-11-20
+## [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ⭐ 19,402 | 🐛 160 | 🌐 TypeScript | 📅 2026-11-20
 
 Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 
@@ -240,13 +240,13 @@ Related links:
 
 Tags: Full
 
-## [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) ⭐ 15,647 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08
+## [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) ⭐ 15,648 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08
 
 This repository contains Stability AI's ongoing development of the StableLM series of language models and will be continuously updated with new checkpoints.
 
 Related links:
 
-* [StableVicuna](https://github.com/Stability-AI/StableLM#stablevicuna) ⭐ 15,647 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08 an RLHF fine-tune of Vicuna-13B v0, which itself is a fine-tune of LLaMA-13B.
+* [StableVicuna](https://github.com/Stability-AI/StableLM#stablevicuna) ⭐ 15,648 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08 an RLHF fine-tune of Vicuna-13B v0, which itself is a fine-tune of LLaMA-13B.
 * [huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat](https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat)
 
 Tags: Full
@@ -261,16 +261,16 @@ Related links:
 
 Tags: Full
 
-## [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) ⭐ 12,388 | 🐛 244 | 🌐 Python | 📅 2026-09-06
+## [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) ⭐ 12,386 | 🐛 244 | 🌐 Python | 📅 2026-09-06
 
 MOSS: An open-source tool-augmented conversational language model from Fudan University. (Most examples are in Chinese)
 
 Related links:
 
-* [English readme](https://github.com/OpenLMLab/MOSS/blob/main/README_en.md) ⭐ 12,388 | 🐛 244 | 🌐 Python | 📅 2026-09-06
+* [English readme](https://github.com/OpenLMLab/MOSS/blob/main/README_en.md) ⭐ 12,386 | 🐛 244 | 🌐 Python | 📅 2026-09-06
 
 Tags: Full
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
